@@ -4,12 +4,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import sweets5 from "/Users/nanako/vdslab/react-tutorial-/src/media/24CBE432-BBFC-47CF-BACF-F558878FF485.jpg"
-import sweets6 from "/Users/nanako/vdslab/react-tutorial-/src/media/B78E1DB3-21D0-47E0-85F0-FA9AF67518DC.jpeg"
-import sweets7 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_0550.jpg"
-import sweets8 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9786 2.jpg"
-import sweets9 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_1075.jpg"
-import sweets10 from "/Users/nanako/vdslab/react-tutorial-/src/media/original.jpg"
+import sweets5 from "./media/24CBE432-BBFC-47CF-BACF-F558878FF485.jpg"
+import sweets6 from "./media/B78E1DB3-21D0-47E0-85F0-FA9AF67518DC.jpeg"
+import sweets7 from "./media/IMG_0550.jpg"
+import sweets8 from "./media/IMG_9786 2.jpg"
+import sweets9 from "./media/IMG_1075.jpg"
+import sweets10 from "./media/original.jpg"
 
 const SimpleSlider1 = () =>  {
     const settings = {

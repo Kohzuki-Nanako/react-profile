@@ -4,12 +4,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import dinner1 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_8702.jpg"
-import dinner2 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9873.jpg"
-import dinner3 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9746.jpeg"
-import dinner4 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_0902.jpeg"
-import dinner5 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9957.jpg"
-import dinner6 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9709.jpg"
+import dinner1 from "./media/IMG_8702.jpg"
+import dinner2 from "./media/IMG_9873.jpg"
+import dinner3 from "./media/IMG_9746.jpeg"
+import dinner4 from "./media/IMG_0902.jpeg"
+import dinner5 from "./media/IMG_9957.jpg"
+import dinner6 from "./media/IMG_9709.jpg"
 
 const SimpleSlider4 = () =>  {
     const settings = {

@@ -4,12 +4,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import birdie1 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3730.jpg"
-import birdie2 from "//Users/nanako/vdslab/react-tutorial-/src/media/IMG_1824.jpeg"
-import birdie3 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3253.jpeg"
-import birdie4 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3731.jpg"
-import birdie5 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_7871.jpeg"
-import birdie6 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_8794.jpeg"
+import birdie1 from "./media/IMG_3730.jpg"
+import birdie2 from "./media/IMG_1824.jpeg"
+import birdie3 from "./media/IMG_3253.jpeg"
+import birdie4 from "./media/IMG_3731.jpg"
+import birdie5 from "./media/IMG_7871.jpeg"
+import birdie6 from "./media/IMG_8794.jpeg"
 
 const SimpleSlider5 = () =>  {
     const settings = {

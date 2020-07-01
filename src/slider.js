@@ -5,10 +5,10 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 
-import sweets1 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMGP3019.jpg"
-import sweets2 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMGP3100.jpg"
-import sweets3 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMGP3198.jpg"
-import sweets4 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMGP3214.jpg"
+import sweets1 from "./media/IMGP3019.jpg"
+import sweets2 from "./media/IMGP3100.jpg"
+import sweets3 from "./media/IMGP3198.jpg"
+import sweets4 from "./media/IMGP3214.jpg"
 
 
  

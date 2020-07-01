@@ -4,12 +4,12 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import bread1 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3594.jpeg"
-import bread2 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3539.jpeg"
-import bread3 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_0775.jpeg"
-import bread4 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_9693.jpg"
-import bread5 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMGP3111.jpg"
-import bread6 from "/Users/nanako/vdslab/react-tutorial-/src/media/IMG_3712.jpeg"
+import bread1 from "./media/IMG_3594.jpeg"
+import bread2 from "./media/IMG_3539.jpeg"
+import bread3 from "./media/IMG_0775.jpeg"
+import bread4 from "./media/IMG_9693.jpg"
+import bread5 from "./media/IMGP3111.jpg"
+import bread6 from "./media/IMG_3712.jpeg"
 
 const SimpleSlider3 = () =>  {
     const settings = {
